@@ -1,3 +1,11 @@
+# 💫 About Me:
+🔭 Building a hybrid-casual [chess puzzle game](https://play.google.com/store/apps/details?id=com.PeterBrecska.ChessPuzzleGame)in Unity<br>
+👯 Interested in collaborating on [symfony DDD budles](https://github.com/symfony-ddd)<br>
+🤝 Seeking support with user acquisition<br>
+🌱 Expanding skills in marketing strategies and product visibility methods<br>
+💬 Open to discussions on design simplicity<br>
+⚡ Fun fact I am bad at chess
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter.brecska) 
 
