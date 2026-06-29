@@ -4,7 +4,7 @@
 🌱 Expanding skills in marketing strategies and product visibility methods<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter.brecska) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-brecska-7b19b8105/) 
 
 # 💻 Tech Stack:
 
